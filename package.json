@@ -1,5 +1,5 @@
 {
-  "name": "cucumber-html-reporter",
+  "name": "@nodebug/cucumber-html-reporter",
   "version": "5.2.0",
   "description": "Generates Cucumber HTML reports in three different themes",
   "main": "index.js",
