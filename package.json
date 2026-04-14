@@ -8,6 +8,9 @@
     "name": "Kushang Gajjar",
     "email": "g.kushang@gmail.com"
   },
+  "engines": {
+    "node": ">=24"
+  },
   "contributors": [
     {
       "name": "larryg01",
