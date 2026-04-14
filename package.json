@@ -154,8 +154,7 @@
     }
   ],
   "scripts": {
-    "pretest": "npx cucumber-js test/features/ --require test/features/step_definitions --format json:test/report/cucumber_report.json",
-    "pretext": "node node_modules/cucumber/bin/cucumber-js test/features/ -r test/features/step_definitions -f json:test/report/cucumber_report.json --no-strict || true",
+    "pretest": "node node_modules/cucumber/bin/cucumber-js test/features/ -r test/features/step_definitions -f json:test/report/cucumber_report.json --no-strict || true",
     "clean": "rm -rf screenshots",
     "test": "node test/createHtmlReports.js"
   },
