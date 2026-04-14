@@ -1,5 +1,5 @@
 {
-  "name": "cucumber-html-reporter",
+  "name": "@nodebug/cucumber-html-reporter",
   "version": "7.2.0",
   "description": "Generates Cucumber HTML reports in three different themes",
   "main": "index.js",
@@ -173,7 +173,7 @@
   "license": "MIT",
   "homepage": "https://github.com/gkushang/cucumber-html-reporter#readme",
   "dependencies": {
-    "@cucumber/cucumber": "9.1.2",
+    "@cucumber/cucumber": "12.8.1",
     "chalk": "^2.4.2",
     "find": "^0.3.0",
     "fs-extra": "^8.1.0",
